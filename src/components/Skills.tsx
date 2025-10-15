@@ -9,7 +9,9 @@ export default function Skills() {
         { name: 'Python', level: 90 },
         { name: 'Java', level: 85 },
         { name: 'JavaScript', level: 88 },
+         { name: 'React', level: 85 }
         { name: 'TypeScript', level: 80 }
+        
       ]
     },
     {

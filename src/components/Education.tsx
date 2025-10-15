@@ -2,6 +2,15 @@ import { GraduationCap, Award, Calendar } from 'lucide-react';
 
 export default function Education() {
   const education = [
+     {
+        years: '2022 - 2026',
+      institution: 'Mizan Tepi University',
+      degree: 'Becholar in software Engineering (BSE)',
+      description: 'Completed University education with focus on web devlopment and cybersecurity.',
+      type: 'University'
+     },
+
+
     {
       years: '2017 - 2020',
       institution: 'Juba Parent High School',

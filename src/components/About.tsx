@@ -44,7 +44,7 @@ export default function About() {
               </div>
               <div className="flex justify-between">
                 <span className="font-medium">Email:</span>
-                <span>simonyok7@gmail.com</span>
+                <span>nyokbiliu804@gmail.com</span>
               </div>
               <div className="flex justify-between">
                 <span className="font-medium">Phone:</span>

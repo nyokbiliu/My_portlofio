@@ -2,12 +2,21 @@ import { Briefcase, Calendar, MapPin } from 'lucide-react';
 
 export default function Experience() {
   const experiences = [
+
+  {
+ year: '2021',
+      company: 'UNHCR',
+      position: 'Enumerator',
+      location: 'Malakal, ',
+      description: 'Coordinated with office and helped in the smooth running of the work within the due time.',
+      type: 'NGO'
+  },
     {
       year: '2021',
       company: 'John Garang Boys Primary School',
       position: 'Teacher',
       location: 'Malakal',
-      description: 'Taught primary school students, developed curriculum materials, and fostered a positive learning environment.',
+      description: 'Taught primary school pupils, developed curriculum materials, and fostered a positive learning environment.',
       type: 'Education'
     },
     {

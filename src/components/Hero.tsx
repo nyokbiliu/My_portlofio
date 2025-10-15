@@ -20,7 +20,7 @@ export default function Hero() {
               <span>Jebel, Juba, South Sudan</span>
             </div>
             <p className="text-slate-700 mb-8 leading-relaxed">
-              Passionate software engineer with expertise in Python, Java, HTML, and modern web technologies.
+              Passionate software engineer with expertise in Python, Java, HTML,React and modern web technologies.
               Dedicated to creating innovative solutions and sharing creative ideas with team members.
             </p>
             <div className="flex gap-4">
@@ -61,7 +61,7 @@ export default function Hero() {
             <div className="relative">
               <div className="absolute -inset-4 bg-blue-600 rounded-full blur-2xl opacity-20"></div>
               <img
-                src="/photo_2025-10-15_10-21-53.jpg"
+                src="/photo_2025-10-15_11-30-30.jpg"
                 alt="Nyok Biliu Kuol Kiir"
                 className="relative rounded-full w-80 h-80 object-cover shadow-2xl border-8 border-white"
               />
