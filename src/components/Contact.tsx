@@ -11,7 +11,7 @@ export default function Contact() {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    const mailtoLink = `mailto:simonyok7@gmail.com?subject=${encodeURIComponent(formData.subject)}&body=${encodeURIComponent(`Name: ${formData.name}\nEmail: ${formData.email}\n\nMessage:\n${formData.message}`)}`;
+    const mailtoLink = `mailto:nyokbiliu804@gmail.com?subject=${encodeURIComponent(formData.subject)}&body=${encodeURIComponent(`Name: ${formData.name}\nEmail: ${formData.email}\n\nMessage:\n${formData.message}`)}`;
     window.location.href = mailtoLink;
   };
 
@@ -26,14 +26,16 @@ export default function Contact() {
     {
       icon: Mail,
       title: 'Email',
-      value: 'simonyok7@gmail.com',
-      link: 'mailto:simonyok7@gmail.com'
+      value: 'nyokbiliu804@gmail.com',
+      link: 'mailto:nyokbiliu804@gmail.com'
     },
     {
       icon: Phone,
       title: 'Phone',
+      value:'(+251) 985189790',
       value: '(+211) 922155437',
       link: 'tel:+211922155437'
+      link: 'tel:+251985189790'
     },
     {
       icon: MapPin,
