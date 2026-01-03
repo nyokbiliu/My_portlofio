@@ -49,6 +49,7 @@ export default function About() {
               <div className="flex justify-between">
                 <span className="font-medium">Phone:</span>
                 <span>(+211) 922155437</span>
+                <span>(+251) 985189790</span>
               </div>
             </div>
           </div>
