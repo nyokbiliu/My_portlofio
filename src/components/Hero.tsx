@@ -31,7 +31,7 @@ export default function Hero() {
                 Get In Touch
               </a>
               <a
-                href="mailto:simonyok7@gmail.com"
+                href="mailto:nyokbiliu804@gmail.com"
                 className="px-6 py-3 border-2 border-slate-300 text-slate-700 rounded-lg font-medium hover:border-blue-600 hover:text-blue-600 transition-colors"
               >
                 <Mail size={20} className="inline mr-2" />
